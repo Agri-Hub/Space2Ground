@@ -1,7 +1,7 @@
 # Space2Ground
 
 
-### Towards Space-to-Ground Data Availability for the Monitoring of the Common Agricultural Policy
+### Towards Space-to-Ground Data Availability for the Monitoring of the Common Agricultural Policy (CAP)
 
 
 
