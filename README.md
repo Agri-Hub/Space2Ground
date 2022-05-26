@@ -9,9 +9,9 @@ In particular, our dataset consists of:
   * Sentinel-1 monthly mean time-series 
   * Sentinel-2 time-series
 * Ground Component
-  * Street level image patches obtained from [Mapillary](https://www.mapillary.com/app) street-level images after appropriate processing
+  * Street level image patches obtained from [Mapillary](https://www.mapillary.com/app) after appropriate processing
 * Labels/Annotations
-  * Parcel IDs and Grassland/Non-Grassland labels, according to farmers' declarations (_parcel\_annotations.csv file_)
+  * Parcel IDs and Grassland/Non-Grassland labels, according to farmers' declarations [_parcel\_annotations.csv file_](parcel_annotations.csv)
 
 <br clear="right"/>
 
