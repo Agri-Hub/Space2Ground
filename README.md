@@ -11,7 +11,7 @@ In particular, our dataset consists of:
 * Ground Component
   * Street level image patches obtained from [Mapillary](https://www.mapillary.com/app) after appropriate processing
 * Labels/Annotations
-  * Parcel IDs and Grassland/Non-Grassland labels, according to farmers' declarations [_parcel\_annotations.csv file_](parcel_annotations.csv)
+  * Parcel IDs and Grassland/Non-Grassland labels, according to farmers' declarations ([_parcel\_annotations.csv file_](parcel_annotations.csv)).
 
 <br clear="right"/>
 
