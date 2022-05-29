@@ -196,14 +196,14 @@ Note that the labels include crop types, like `Grassland`, `Maize`, `Onions`, et
 ## Space2Ground Usage examples and Dataset Generation
 
 ### Usage example
-The implementation of our [publication](#space2ground_paper) using Space2Ground dataset can be found in [this jupyter notebook](#notebook_to_be_added)
+A jupyter notebook with the implementation using Space2Ground dataset desciribed in our [publication](#space2ground_paper) will be uploaded shortly.
 
 ### Image patches from raw Mapillary images example
-The process we followed to extract the vegetation patches from the "raw" Mapillary dataset can be found in [this jupyter notebook](streetLevel_patches.ipynb)
+The process we followed to extract the vegetation patches from the "raw" Mapillary dataset can be found in [this jupyter notebook](streetLevel_patches.ipynb). A new, detailed version with further instructions and comment will be uploaded shortly.
 
 
 ## External Code
-* Download street level images from Mapillary and annotate them with labels from LPIS
+* Download street level images from Mapillary and annotate them with labels from openly accessible Land Parcel Identification Systems (LPIS) data
 https://github.com/Agri-Hub/Callisto/tree/main/Mapillary
 
 * Download and pre-process Sentinel-1 and Sentinel-2 data:
