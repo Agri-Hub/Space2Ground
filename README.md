@@ -216,6 +216,8 @@ George Choumos, Alkiviadis Koukos, Vasileios Sitokonstantinou and Charalampos Ko
 _Towards Space-to-Ground Data Availability for Agriculture Monitoring_ <br/>
 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP 2022), 26-29 June 2022, Nafplio, Greece
 https://arxiv.org/abs/2205.07721
+<img align="right" src="Space2Ground_overview.jpg"/>
+
 
 ## Citation
 If you used Space2Ground dataset, please cite the following paper.
