@@ -196,7 +196,7 @@ Note that the labels include crop types, like `Grassland`, `Maize`, `Onions`, et
 ## Space2Ground Usage examples and Dataset Generation
 
 ### Usage example
-A jupyter notebook with the implementation using Space2Ground dataset desciribed in our [publication](#space2ground_paper) will be uploaded shortly.
+A jupyter notebook with the implementation using Space2Ground dataset described in our [publication](#space2ground_paper) will be uploaded shortly.
 
 ### Image patches from raw Mapillary images example
 The process we followed to extract the vegetation patches from the "raw" Mapillary dataset can be found in [this jupyter notebook](streetLevel_patches.ipynb). A new, detailed version with further instructions and comment will be uploaded shortly.
